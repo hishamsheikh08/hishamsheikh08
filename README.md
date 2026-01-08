@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hisham 👋
 
-<!--
-**hishamsheikh08/hishamsheikh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI/ML) Student at MITE  
+🤖 Interested in Machine Learning, Computer Vision & NLP  
+📊 Experienced in end-to-end ML pipelines and real-time systems  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages:** Python, C, C++
+- **ML/DL:** TensorFlow, Keras, Scikit-learn
+- **CV:** OpenCV, MediaPipe
+- **NLP:** BERT (Basics)
+- **Web:** Flask, HTML, CSS, JS
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Power BI, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Sentiment Analysis Chatbot (CV + NLP)
+- Hand Sign Recognition System
+- Stock Market Trend Prediction (LSTM)
+- Fake News Detection System
+
+## 📫 Contact
+- Email: hishamsheikh08@gmail.com
